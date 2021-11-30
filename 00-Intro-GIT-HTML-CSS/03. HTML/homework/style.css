@@ -1,0 +1,52 @@
+*{
+   padding: 0;
+   margin: 0; 
+   background-color: ivory;
+}
+
+h1{
+    color: royalblue;
+}
+
+img{
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+}
+
+#thirdDiv{
+    margin: 50px 412px;
+    height: 600px;
+    width: 500px;
+    background-color: yellowgreen;
+    padding: 50px;
+    border-style: double; 
+            
+}
+
+.ulist{
+    text-align: center;
+    background-color: yellowgreen; 
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+    
+.divClass{
+    
+    align-items: center;
+    text-align: center;
+    
+}
+
+.divClass1{
+    
+    align-items: center;
+    text-align: center;
+}
+
+.pic{
+    margin: 25% 10%;
+}
